@@ -1,0 +1,3 @@
+start - Botu başlatır
+slap - Slaplar
+scor - Skorları gösterir
