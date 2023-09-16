@@ -9,7 +9,7 @@ $ pip3 install -r requirements.txt
 
 ## Scripti çalıştır
 ``` bash
-$ python3 slapbot
+$ python3 slapbot.py
 ```
 
 > Bu repo [slap bot](https://t.me/slapci_bot)'un bir kopyasıdır.
