@@ -12,11 +12,16 @@ $ pip install -r requirements.txt
 $ python slapbot.py
 ```
 > /start komutu
-![image](img/20230916_131921.jpg)
+
+
+<img src="img/20230916_131921.jpg" alt="img/20230916_131921.jpg" width="550"/>
 
 >/slap ve /skor komutu
-![image](img/20230916_132034.jpg)
-![image](img/20230916_133557.jpg)
+
+<img src="img/20230916_132034.jpg" alt="img/20230916_132034.jpg" width="550"/>
+
+<img src="img/20230916_133557.jpg" alt="img/20230916_133557.jpg" width="550"/>
+
 > Bu repo [slap bot](https://t.me/slapci_bot)'un bir kopyasıdır.
 
 ![image](img/slap_bot_qr.jpg)
