@@ -1,13 +1,13 @@
-# Botu Başlatma
+# 🔴 Botu Başlatma
 
 > config.json dosyasını ayarlayınız!
 
-## Gerekli modülleri indir
+## 🔴 Gerekli modülleri indir
 ```bash
 $ pip install -r requirements.txt
 ```
 
-## Scripti çalıştır
+## 🔴 Scripti çalıştır
 ``` bash
 $ python slapbot.py
 ```
