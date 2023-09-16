@@ -4,12 +4,12 @@
 
 ## Gerekli modülleri indir
 ```bash
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Scripti çalıştır
 ``` bash
-$ python3 slapbot.py
+$ python slapbot.py
 ```
 
 > Bu repo [slap bot](https://t.me/slapci_bot)'un bir kopyasıdır.
