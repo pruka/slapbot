@@ -1,6 +1,6 @@
 # 🔴 Botu Başlatma
 
-> config.json dosyasını ayarlayınız!
+<b>config.json dosyasını ayarlayınız!</b>
 
 ## 🔴 Gerekli modülleri indir
 ```bash
